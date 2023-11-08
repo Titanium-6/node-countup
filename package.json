@@ -1,0 +1,15 @@
+{
+    "name": "countup",
+    "version": "1.0.0",
+    "description": "jQuery plugin which animates a count up.",
+    "main": "countup.jquery.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Titanium-6/node-countup"
+    },
+    "keywords": [
+        "jquery-plugin",
+        "ecosystem:jquery"
+    ],
+    "license": "MIT"
+}
